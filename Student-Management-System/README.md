@@ -1,0 +1,1 @@
+The Student Management System will walk you through the basic concepts of Python programming and the approach undertaken for storing, fetching, calculating and displaying the data.
